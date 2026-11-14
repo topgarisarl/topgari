@@ -107,6 +107,7 @@ h2{
 
     .img1{
         height: 380px;
+        max-width:100%;
     }
 
     h2{
