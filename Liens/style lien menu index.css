@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ar{
+    margin-top: 200px;
+}
+
+.lik{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    list-style: none;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+button{
+    background-color:  #fc6507f6;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.5;
+}
+
+button:hover{
+    background-color: #fc6507f6;
+    color: white;
+}
