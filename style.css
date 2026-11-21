@@ -94,9 +94,6 @@ h2{
 .er{
     display: none;
 }
-* {
-    box-sizing: border-box;
-}
 
 img {
     max-width: 100%;
