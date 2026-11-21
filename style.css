@@ -95,10 +95,6 @@ h2{
     display: none;
 }
 
-img {
-    max-width: 100%;
-}
-
 @media (max-width:682px){
 
     .divlogo{
@@ -111,6 +107,8 @@ img {
 
     .img1{
         height: 380px;
+        max-width: 100%;
+
     }
 
     h2{
