@@ -90,6 +90,14 @@ h1{
     display: none;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
 @media (max-width:682px){
 
     .divlogo{
